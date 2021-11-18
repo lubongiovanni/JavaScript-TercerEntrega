@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "titulo": "Cuadro de madre",
+        "stock": "EN STOCK"
+    },
+    {
+        "id": 2,
+        "titulo": "Cuadro de hija",
+        "stock": "EN STOCK"
+    },
+    {
+        "id": 3,
+        "titulo": "Cuadro de hija",
+        "stock": "EN STOCK"
+    },
+    {
+        "id": 4,
+        "titulo": "Cuadro de hija",
+        "stock": "EN STOCK"
+    },
+    {
+        "id": 5,
+        "titulo": "Cuadro de hija",
+        "stock": "EN STOCK"
+    }
+]
